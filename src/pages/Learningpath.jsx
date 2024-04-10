@@ -6,7 +6,7 @@ const Learningpath = () => {
     useEffect(()=>{
         setTimeout(()=>{
             setLoading(false)
-        },3000)
+        },2000)
     })
   return (
     <div className='w-full h-[100vh] md:flex md:flex-col md:justify-center'>
